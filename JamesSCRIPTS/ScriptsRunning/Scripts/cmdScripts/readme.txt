@@ -1,0 +1,1 @@
+gpupdateFORCE is incredably slow. trying to fix but the psexec cmd was the first method that worked
